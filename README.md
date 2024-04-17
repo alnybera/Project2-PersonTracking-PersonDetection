@@ -20,6 +20,7 @@ Selain itu project ini menerapkan NMS (Non-Maximum Suppression) dimana NMS merup
 
 <img width="392" alt="image" src="https://github.com/alnybera/Project2-PersonTracking-PersonDetection/assets/163568585/d8a452e6-70e9-4ab3-91d6-f30f1b8cd51c">
 
+  
 
 <img width="451" alt="image" src="https://github.com/alnybera/Project2-PersonTracking-PersonDetection/assets/163568585/8039efa0-8c1b-44b0-b9c4-d77618d93eb1">
 
