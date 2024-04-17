@@ -18,7 +18,7 @@ Dataset yang digunakan adalah Coco2017 - class “Person”.
 Project kali ini menerapkan object detection improvement dengan Augmentation --> random flip transform dan Pre-trained yang digunakan : torchvision.models.detection.fasterrcnn_resnet50_fpn.
 Selain itu project ini menerapkan NMS (Non-Maximum Suppression) dimana NMS merupakan teknik yang umum digunakan dalam deteksi objek untuk mengatasi masalah tumpang tindih atau duplikasi yang dihasilkan oleh proses deteksi objek. Teknik ini bekerja dengan cara memfilter deteksi yang tumpang tindih dan hanya mempertahankan deteksi yang paling relevan.
 
-<img width="392" alt="image" src="https://github.com/alnybera/Project2-PersonTracking-PersonDetection/assets/163568585/d8a452e6-70e9-4ab3-91d6-f30f1b8cd51c">
+<img width="392" alt="image" src="https://github.com/alnybera/Project2-PersonTracking-PersonDetection/assets/163568585/d8a452e6-70e9-4ab3-91d6-f30f1b8cd51c">.
 
   
 
