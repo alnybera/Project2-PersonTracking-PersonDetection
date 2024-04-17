@@ -1,4 +1,6 @@
-#Description
+Description
+
+
 Faster R-CNN adalah salah satu arsitektur populer dalam deteksi objek yang diperkenalkan oleh Ross Girshick pada tahun 2015. Ada beberapa alasan mengapa tim The Woz memilih beberapa arsitektur tersebut untuk digunakan dalam tugas deteksi objek (Project 2):
 1. Kecepatan Tinggi
 2. Kinerja Tinggi
@@ -6,7 +8,9 @@ Faster R-CNN adalah salah satu arsitektur populer dalam deteksi objek yang diper
 4. Kemampuan untuk Adaptasi
 5. Ketersediaan Implementasi dan Dukungan Komunitas
 
-#Dataset dan Review hasil
+Dataset dan Review hasil:
+
+
 Dataset yang digunakan adalah Coco2017 - class “Person”.
 
 <img width="521" alt="image" src="https://github.com/alnybera/Project2-PersonTracking-PersonDetection/assets/163568585/3b319b1b-e4e7-4786-a03c-3311d9417168">
@@ -21,8 +25,10 @@ Selain itu project ini menerapkan NMS (Non-Maximum Suppression) dimana NMS merup
 
 
 Accumulating evaluation results:
+
 <img width="449" alt="image" src="https://github.com/alnybera/Project2-PersonTracking-PersonDetection/assets/163568585/c8ece5b5-b8e3-4b27-b8ba-98c6d5fadeab">
 
 
 Hasil yang didapatkan:
+
 <img width="290" alt="image" src="https://github.com/alnybera/Project2-PersonTracking-PersonDetection/assets/163568585/38e057d6-01b2-49a0-a33a-c11ac0907b8d">
